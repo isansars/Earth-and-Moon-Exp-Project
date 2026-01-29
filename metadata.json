@@ -1,0 +1,5 @@
+{
+  "name": "Earth and Moon: Gravitational Interaction Simulation",
+  "description": "An interactive physics simulation exploring non-contact forces between the Earth and the Moon, focusing on Newton's Third Law and gravitational field strength as outlined in the textbook materials.",
+  "requestFramePermissions": []
+}
